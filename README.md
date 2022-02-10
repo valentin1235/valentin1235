@@ -6,5 +6,6 @@ With C, I am really happy to understand how my code actually operated at the har
 ### SKILLS
 `C` `Java` `Typescript` `Nodejs` `Docker` `AWS` `Python`
 
-### PORTFOLIO
-please check out my [PORTFOLIO](https://tranquil-meteoroid-d7c.notion.site/6811a19fbbd74438abb466a8175ceee3)
+### LINKS
+- [PORTFOLIO](https://tranquil-meteoroid-d7c.notion.site/6811a19fbbd74438abb466a8175ceee3)
+- [LINKEDIN](https://www.linkedin.com/in/heechul-yoon-85b154165/)
