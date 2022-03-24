@@ -2,7 +2,7 @@
 - I have been working as backend developer with typescript and nodejs for my one year career.  
 Also I had a few project with Java for my OOP studying.  
 Now I am into C and really enjoying to understand how my code actually works over hardware.  
-I spend most of my time to programize the problem I study and implements my thinking into code.
+I spend most of my time to programize the problem I face and implements my thinking into code.
 
 ### SKILLS
 - `C`
