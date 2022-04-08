@@ -1,8 +1,7 @@
 ### ABOUT ME
 - I have been working as backend developer with typescript and nodejs for my one year career.  
-Also I had a few project with Java for my OOP studying.  
-Now I am into C and really enjoying to understand how my code actually works over hardware.  
-I spend most of my time to programize the problem I face and implements my thinking into code.
+Also I often use Java for solid service and happy to go for C when performance needed.
+
 
 ### SKILLS
 - `C`
