@@ -15,3 +15,4 @@ Also I often use Java for solid service and happy to go for C when performance n
 ### LINKS
 - [PORTFOLIO](https://tranquil-meteoroid-d7c.notion.site/6811a19fbbd74438abb466a8175ceee3)  
 - [LINKEDIN](https://www.linkedin.com/in/heechul-yoon-85b154165/)
+- [BLOG](https://www.velog.com/valentin123)
