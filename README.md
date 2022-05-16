@@ -1,6 +1,6 @@
 ### ABOUT ME
 - I have been working as backend developer with typescript and nodejs for my one year career.  
-Also I often use Java for solid service and happy to go for C when performance needed.
+Also I often use Java for solid service and go for C when performance needed.
 
 
 ### SKILLS
