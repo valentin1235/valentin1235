@@ -1,6 +1,7 @@
 ### ABOUT ME
-- I have been working as backend developer with typescript and nodejs for my one year career.  
-Also I often use Java for solid service and go for C when performance needed.
+- As a non-computer science bachelor, I have been studying hard to have solid programing basics. I hope you check out my [personal projects](https://www.notion.so/Heechul-Yoon-1f75ea5d70c54efba25dfefbed1c8c1e)
+- I mainly use `Typescript` `C` `Java` and open to pick language as required.
+- I am accustomed to inform and convince issue and I have been working in such environment.
 
 
 ### SKILLS
