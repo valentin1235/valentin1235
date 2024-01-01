@@ -5,6 +5,7 @@
 
 
 ### SKILLS
+- `Go`
 - `C`
 - `Java` 
 - `Typescript` 
