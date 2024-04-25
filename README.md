@@ -25,12 +25,13 @@
 - 80 / 100
 - [Study Note](https://tranquil-meteoroid-d7c.notion.site/Java-956a07bed6754c648329add0782c64c8?pvs=4)
 - Key Projects
+  - [chess-bot](https://github.com/valentin1235/chess-bot/blob/main/README.md)
+  - [project-scheduler](https://github.com/valentin1235/project-scheduler)
 
 #### Assembly Programming
 - 2023.9 ~ 2024.4
 - 86 / 100
 - [Study Note](https://tranquil-meteoroid-d7c.notion.site/243d5136c1084aa1b4c26036cd161081?pvs=4)
-- Key Projects
 
 ### LINKS
 - [Blog Korean](https://velog.io/@valentin123)
