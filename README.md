@@ -3,7 +3,11 @@
 - Self-taught programmer with a strong foundation in computer science fundamentals.
 
 ## What I Have Studied
-### POCU Academy
+### [Cousera](https://www.coursera.org/)
+#### [Exam Prep CKA: Certified Kubernetes Administrator](https://www.coursera.org/learn/exam-prep-cka-certified-kubernetes-administrator)
+- [Study Note](https://www.notion.so/cka-certificated-kubernetes-af2216bae9a34ed2bf66d8ff3720344d)
+
+### [POCU Academy](https://pocu.academy/ko)
 #### Object Oriented Programming
 - 2021.9 ~ 2022.1
 - 87 / 100
@@ -32,6 +36,15 @@
 - 2023.9 ~ 2024.4
 - 86 / 100
 - [Study Note](https://tranquil-meteoroid-d7c.notion.site/243d5136c1084aa1b4c26036cd161081?pvs=4)
+
+### [Real Linux](https://reallinux.co.kr/roadmap/)
+#### [docker/k8s/aws/network](https://reallinux.co.kr/course/se_network)
+- 2023.7 ~ 2023.9
+- [Study Note](https://tranquil-meteoroid-d7c.notion.site/k8s-AWS-82a2112ca9114cd9bc50036a83f74274?pvs=4)
+
+### Self Study
+#### Functional Programming
+- [Study Note](https://tranquil-meteoroid-d7c.notion.site/c0515a2e014843fd9d7a372704823c7a?pvs=4)
 
 ### LINKS
 - [Blog Korean](https://velog.io/@valentin123)
