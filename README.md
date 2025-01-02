@@ -1,5 +1,5 @@
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/valentin1235" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/farms/valentin1235"/>
 </a>
 
 # About Me
