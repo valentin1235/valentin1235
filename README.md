@@ -1,3 +1,7 @@
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/valentin1235" width="1000" height="120"/>
+</a>
+
 # About Me
 - 3+ years of experience specializing in backend development and infrastructure management, I leverage my former sales and marketing background to drive business impact by balancing software and market needs. With my engineering expertise, I am dedicated to devising solutions across various software abstraction layers
 - Self-taught programmer with a strong foundation in computer science fundamentals.
